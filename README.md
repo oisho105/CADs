@@ -1,2 +1,2 @@
-# CADs: made for works done in AutoCAD and SolidWorks
+# CADs: made for storing AutoCAD and SolidWorks drawings
  
